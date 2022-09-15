@@ -1,0 +1,7 @@
+C:\Users\knemt\Desktop\VS project\Nemyreva\bin\Debug\Nemyreva.exe.config
+C:\Users\knemt\Desktop\VS project\Nemyreva\bin\Debug\Nemyreva.exe
+C:\Users\knemt\Desktop\VS project\Nemyreva\bin\Debug\Nemyreva.pdb
+C:\Users\knemt\Desktop\VS project\Nemyreva\obj\Debug\Nemtyreva.csproj.AssemblyReference.cache
+C:\Users\knemt\Desktop\VS project\Nemyreva\obj\Debug\Nemtyreva.csproj.CoreCompileInputs.cache
+C:\Users\knemt\Desktop\VS project\Nemyreva\obj\Debug\Nemyreva.exe
+C:\Users\knemt\Desktop\VS project\Nemyreva\obj\Debug\Nemyreva.pdb
